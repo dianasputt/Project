@@ -1,1 +1,2 @@
-
+Kopi Kenangan adalah salah satu merek kopi populer di Indonesia, dengan banyak pelanggan yang sering memberikan ulasan di Google Play Store. Ulasan ini bisa mengandung wawasan penting tentang kepuasan dan pengalaman pelanggan. Analisis sentimen menggunakan Natural Language Processing (NLP) dan metode K-Nearest Neighbors (KNN) dapat membantu dalam memahami dan mengkategorikan sentimen dari ulasan-ulasan tersebut.
+Proyek ini bertujuan untuk menerapkan teknik NLP dan algoritma K-Nearest Neighbors untuk menganalisis sentimen dari ulasan pelanggan terhadap aplikasi Kopi Kenangan di Google Play Store. Hasil analisis ini akan membantu perusahaan memahami opini pelanggan dan mengambil langkah yang diperlukan untuk meningkatkan kualitas layanan.
