@@ -1,1 +1,2 @@
-
+Dalam industri e-commerce yang sangat kompetitif, mempertahankan pelanggan adalah kunci untuk pertumbuhan berkelanjutan. Churn atau hilangnya pelanggan adalah tantangan besar yang harus dihadapi oleh perusahaan e-commerce. Memahami faktor-faktor yang mempengaruhi loyalitas pelanggan dan mampu memprediksi churn dapat membantu perusahaan mengambil langkah proaktif untuk mempertahankan pelanggan dan meningkatkan loyalitas mereka.
+Proyek ini bertujuan untuk menganalisis loyalitas pelanggan dan memprediksi churn menggunakan model regresi logistik. Dengan analisis ini, perusahaan e-commerce dapat mengidentifikasi pelanggan yang berisiko churn dan mengambil tindakan pencegahan yang diperlukan.
