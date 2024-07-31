@@ -1,1 +1,1 @@
-
+Proyek ini bertujuan untuk menerapkan algoritma K-Means clustering untuk melakukan segmentasi pelanggan bank. Dengan segmentasi ini, bank dapat mengidentifikasi kelompok pelanggan yang berbeda berdasarkan parameter seperti demografi, perilaku transaksi, dan preferensi produk. Informasi ini dapat digunakan untuk mengembangkan strategi pemasaran yang lebih efektif dan meningkatkan layanan pelanggan.
